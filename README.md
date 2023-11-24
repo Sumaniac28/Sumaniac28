@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sumit Grover</h1>
 <h3 align="center">I'm a developer skilled in Java and web technologies, passionate about creating cool stuff, and I love being part of communities where we share and learn together.</h3>
 
-<img align="right" width="300" src="https://i.pinimg.com/originals/e4/2d/12/e42d129bf5517fd2c82cd6f53755f2f9.gif" alt ="Coding">
+<img align="right" width="200" src="https://i.pinimg.com/originals/e4/2d/12/e42d129bf5517fd2c82cd6f53755f2f9.gif" alt ="Coding">
 # 💫 About Me:
 🔭 I’m currently working on AWS UG Delhi NCR Website<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning React and Node JS<br>💬 Ask me about Java DSA, Front End Web Dev, AWS<br>⚡ Fun fact "I would love to change the world, but they won't give me the source code."
 
