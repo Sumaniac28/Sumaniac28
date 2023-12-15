@@ -3,7 +3,7 @@
 
 <img align="right" width="200" src="https://i.pinimg.com/originals/e4/2d/12/e42d129bf5517fd2c82cd6f53755f2f9.gif" alt ="Coding">
 # 💫 About Me:
-🔭 I’m currently working on AWS UG Delhi NCR Website<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning React and Node JS<br>💬 Ask me about Java DSA, Front End Web Dev, AWS<br>⚡ Fun fact "I would love to change the world, but they won't give me the source code."
+🔭 I’m currently working on AWS UG Delhi NCR Website and Ipod-mini(React Project)<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning React and Node JS<br>💬 Ask me about Java DSA, Front End Web Dev, AWS<br>⚡ Fun fact "I would love to change the world, but they won't give me the source code."
 
 
 ## 🌐 Socials:
